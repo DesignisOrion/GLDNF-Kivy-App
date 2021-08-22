@@ -1,6 +1,6 @@
-# Coffee Note
+# GLDNF
 
-Coffee Note is a social audio app where users can communicate in audio chat coffee houses that accommodate groups of thousands of people. It hosts live conversations for coffee enthusiast, with voice and listening capabilities.
+The GLDNF App allows users to log in and check out the statistics of their personal "Floppy" character. 
 
 ## Installation
 
