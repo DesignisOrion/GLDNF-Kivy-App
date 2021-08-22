@@ -1,6 +1,6 @@
-# GLDNF
+# GLDNF FloppyDex
 
-The GLDNF App allows users to log in and check out the statistics of their personal "Floppy" character. 
+The GLDNF "FLOPPYDEX" App allows users to log in and check out the statistics of their personal "Floppy" character. 
 
 ## Installation
 
